@@ -1,2 +1,15 @@
 .npm
 .bundle
+.gem
+.cache
+.ssh
+
+.gem
+.cache
+.ssh
+.bash_history
+.bash_logout
+.profile
+.viminfo
+.sudo_as_admin_successful
+.bashrc
